@@ -1,3 +1,5 @@
+#MESSED WITH THE REPO
+#PROJECT MIGRATED TO https://github.com/dav-oss/Kathekani-FC.git
 # Getting Started with KATHEKANIFC APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
